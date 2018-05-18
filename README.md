@@ -13,7 +13,7 @@ Prompts user to place another order
 <img width="754" alt="prompt for 2nd order" src="https://user-images.githubusercontent.com/33774231/40211519-fd4d123c-59ff-11e8-9a39-9eeab5ec2dbc.png">
 
 
-Shows insufficeitn quantity
+Shows insufficient quantity
 <img width="739" alt="insufficient quantity" src="https://user-images.githubusercontent.com/33774231/40211518-fd369516-59ff-11e8-9969-c5d4d132f083.png">
 
 
