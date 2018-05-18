@@ -12,7 +12,7 @@ Shows initial load
 This image shows the total and order: 
 <img width="758" alt="placing 1st order" src="https://user-images.githubusercontent.com/33774231/40211477-cd549b9a-59ff-11e8-877a-df88a5cdd66e.png">
 
-Prompts user to place another order 
+Prompts user to place another order (notice banana amount has been depleted)
 <img width="754" alt="prompt for 2nd order" src="https://user-images.githubusercontent.com/33774231/40211519-fd4d123c-59ff-11e8-9a39-9eeab5ec2dbc.png">
 
 
