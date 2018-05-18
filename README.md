@@ -6,7 +6,8 @@ An amazon-like storefront created using Javascript and MySQL. This app takes ord
 Link to video:
 https://drive.google.com/file/d/1fbUuygmc4xXrg36XeZ5BsgnQ6apEdvye/view?usp=sharing
 
-
+Shows initial load 
+<img width="765" alt="initial start" src="https://user-images.githubusercontent.com/33774231/40211644-a55279ea-5a00-11e8-8609-da35e60b4494.png">
 
 This image shows the total and order: 
 <img width="758" alt="placing 1st order" src="https://user-images.githubusercontent.com/33774231/40211477-cd549b9a-59ff-11e8-877a-df88a5cdd66e.png">
